@@ -1,0 +1,10 @@
+
+h1 {size: 60px;
+color: aqua;}
+body{display: flexbox;
+    justify-content: center;
+    margin-left: 600;
+    margin-right: 600;
+    margin-top: 100;
+}
+
